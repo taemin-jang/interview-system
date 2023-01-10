@@ -4,6 +4,8 @@
 
 2022년 09월 01일 ~ 2022년 12월 21일 (v1.0.0)
 
+2023년 01월 10일 ~ 리펙토링 진행 중
+
 ---
 
 <img src="https://user-images.githubusercontent.com/102431281/208467663-c7a8f42c-9379-4c4e-bd06-942b14816988.png"  width="600" height="350"/>
